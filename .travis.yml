@@ -1,6 +1,6 @@
 language: android
 android:
-  components:
+components:
     # Uncomment the lines below if you want to
     # use the latest revision of Android SDK Tools
     - tools
@@ -18,7 +18,7 @@ android:
     - extra-google-m2repository
     - extra-android-m2repository
 
-    licenses:
+licenses:
         - 'android-sdk-preview-license-52d11cd2'
         - 'android-sdk-license-.+'
         - 'google-gdk-license-.+'
